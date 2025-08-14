@@ -33,7 +33,7 @@ A simple and versatile web-based text converter tool with multiple utilities to 
 
 ## Screenshots
 
-![Features](screenshots.png)
+![Features](screenshot.png)
 
 ---
 
